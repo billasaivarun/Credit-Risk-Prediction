@@ -9,8 +9,6 @@ Experimented with different Machine Learning Algorithms, Logistic Regression, De
 
 Compare the results to recommend the best Classification Model.
 
-Google Colab Link: 
-https://colab.research.google.com/drive/1RHFwuiJ14ShoRkrHHD_mfmBgGUQlsMIX?usp=sharing
+Google Colab Link: https://colab.research.google.com/drive/1RHFwuiJ14ShoRkrHHD_mfmBgGUQlsMIX?usp=sharing
 
-Presentation Link:
-https://docs.google.com/presentation/d/18l5OIwT-WO4XGGDtCqF8iUeP1B1w8jRA/edit?usp=sharing&ouid=114117940361788888173&rtpof=true&sd=true
+Presentation Link: https://docs.google.com/presentation/d/18l5OIwT-WO4XGGDtCqF8iUeP1B1w8jRA/edit?usp=sharing&ouid=114117940361788888173&rtpof=true&sd=true
